@@ -1,4 +1,4 @@
-#AutoCount.vbs
+# AutoCount.Vbs
 Purpose: To Automate the bi-daily process 
 of propagating the counts into the POS IntraWeb
 system - after physical policy mandated verification 
