@@ -20,10 +20,10 @@ Notes: This script version relies on a few
     counts, and saved on the Favorites Bar under 
     the name: "Counts".
 
-(3) POS credentials/Count Reconciliation 
-    credentials/Asset Tags
-    credentials are: 
-    (1)Not public,
-    (2) Need to be written into the script
-    (3) Expectant that the credentials are 
-        saved in the browser's cache.  
+(3)  POS credentials
+     Count Reconciliation credentials
+     AssetTag credentials are: 
+           (1) Not public. 
+           (2) Need to be written into the script. 
+           (3) Expectant that the credentials are 
+               saved in the browser's cache.  
